@@ -11,23 +11,23 @@
 			"gaming"
 		],
 		"pembimbing" : {
-			"pembimbing":"reza",
-			"pembimbinf":"evi"
+			"pembimbing1":"reza",
+			"pembimbing2":"evi"
 		}
 	},
 		{
 
-		"nama" : "Ega",
+		"nama" : "reza",
 		"umur" : 20,
-		"nrp"  : "173040036",
+		"nrp"  : "1730400113",
 		"lulus" : true,
 		"hobby" : [
 			"coding",
 			"gaming"
 		],
 		"pembimbing" : {
-			"pembimbing":"reza",
-			"pembimbinf":"evi"
+			"pembimbing1":"loli",
+			"pembimbing2":"evi"
 		}
 	}
 ]
